@@ -1,0 +1,16 @@
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+.outer h3{
+    text-align: center;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color:lightgray;
+}
+h4{
+    float: right;
+}
